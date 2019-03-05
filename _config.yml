@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Haoquan Zhao"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Haoquan Zhao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://haoquanzhao.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/zhaosec/zhaosec"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,18 +79,14 @@ analytics:
 # Site Author
 author:
   name             : "Haoquan Zhao"
-  avatar           : "20170205_182118.jpg"
+  avatar           : "20170813_161047.png"
   bio              : "绍兴人在美国"
   location         : "Buffalo"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "haoquan.zhao@gmail.com"
   wechat           : "Nodded"
-  github           : "https://github.com/zhaosec"
-  google_plus      :
-  keybase          :
-  instagram        : "haoquanz"
-  weibo            : "https://www.weibo.com/damndeng/profile?rightmod=1&wvr=6&mod=personinfo"
+  github           : "zhaosec"
+  instagram        : "haoquan_z"
+  weibo            : "damndeng"
 
 
 # Reading Files
