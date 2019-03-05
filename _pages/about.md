@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% include base_path %}
 
 大家好
 ======
