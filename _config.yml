@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoquan Zhao"
+title                    : "赵浩权 / 个人网站"
 title_separator          : "-"
-name                     : &name "Haoquan Zhao"
+name                     : &name "赵浩权"
 description              : &description "personal description"
-url                      : https://haoquanzhao.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhaosec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/zhaosec/zhaosec"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,6 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+twitter:
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -78,15 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haoquan Zhao"
-  avatar           : "20170813_161047.png"
+  name             : "赵浩权"
+  avatar           : "profile.png"
   bio              : "绍兴人在美国"
   location         : "Buffalo"
-  email            : "haoquan.zhao@gmail.com"
-  wechat           : "Nodded"
+  employer         :
+  pubmed           :
+  googlescholar    :
+  email            :  "haoquan.zhao@gmail.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "zhaosec"
+  google_plus      :
+  keybase          :
   instagram        : "haoquan_z"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
   weibo            : "damndeng"
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
