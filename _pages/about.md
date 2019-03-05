@@ -17,7 +17,7 @@ redirect_from:
 我的简历
 ======
 <object data="https://zhaosec.github.io/files/Haoquan Zhao.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://zhaosec.github.io/files/Haoquan Zhao.pdf">	    <embed src="https://zhaosec.github.io/files/Haoquan Zhao.pdf">
-        文件不支持: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>	        This browser does not support PDFs. Please download the PDF to view it: <a href="https://zhaosec.github.io/files/Haoquan Zhao.pdf">Download PDF</a>.</p>
-    </embed>	    </embed>
-</object>	</object>
+    <embed src="https://zhaosec.github.io/files/Haoquan Zhao.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://zhaosec.github.io/files/Haoquan Zhao.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
