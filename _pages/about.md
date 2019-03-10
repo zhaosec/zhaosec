@@ -14,5 +14,5 @@ redirect_from:
 
 我的简历
 ======
-<embed src="src="http://docs.google.com/gview?embedded=true&url=https://zhaosec.github.io/zhaosec/files/HaoquanZhao.pdf&amp;embedded=true" width="700" height="1100" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="http://docs.google.com/gview?embedded=true&url=https://zhaosec.github.io/zhaosec/files/HaoquanZhao.pdf&amp;embedded=true" width="700" height="1100" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 
