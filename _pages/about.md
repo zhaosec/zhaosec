@@ -14,5 +14,8 @@ redirect_from:
 
 我的简历
 ======
-<embed src="https://zhaosec.github.io/zhaosec/files/HaoquanZhao.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<img alt="My Image" src="data:files/Haoquanzhao png.png;base64,iVBORwA<MoreBase64SringHere>" />
+
+<img alt="My Image" src="data:https://zhaosec.github.io/zhaosec/files/Haoquanzhao png.png;base64,iVBORwA<MoreBase64SringHere>" />
+
 
