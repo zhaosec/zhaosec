@@ -15,7 +15,7 @@ redirect_from:
 我的简历
 ======
 
-<img src="https://zhaosec.github.io/zhaosec/files/Haoquanzhao png.png" class="img-responsive" alt="">
+<img src="https://zhaosec.github.io/zhaosec/files/Haoquanzhao png.png" class="img-responsive" alt=""style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);>
 
 
 
