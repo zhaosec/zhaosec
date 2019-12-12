@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-大家好
-======
-Bitaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaach
+WHAT UP BiTAAAAAAAAAAAAAAACH
 ======
 
 我的简历
