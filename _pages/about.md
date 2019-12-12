@@ -10,7 +10,7 @@ redirect_from:
 
 大家好
 ======
-我是赵浩权，来自浙江绍兴。我的专业是计算机科学，我将于2019年6月从布法罗大学毕业。谢谢！！！
+Bitaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaach
 
 我的简历
 ======
