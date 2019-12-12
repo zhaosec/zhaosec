@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-WHAT UP BiTAAAAAAAAAAAAAAACH
+WHAT UP BITAAAAAAAAAAAAAAACH
 ======
 
 我的简历
